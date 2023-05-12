@@ -17,7 +17,7 @@ This is a Python program that converts text input into ASCII art using the "Graf
    git clone https://github.com/ak47ak47/ascii-art-converter.git
    ```
 
-2. Change into the project directory:
+2. cd ascii-art-converter
 
    ```
    cd ascii-art-converter

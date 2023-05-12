@@ -1,7 +1,7 @@
 # ascii-art-converter
 You can use the art library in Python to generate ASCII art and the tkinter library to create a graphical user interface (GUI). Here's an example code that uses the "Graffiti" font and includes a copy button for the ASCII art
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/></p>
+<img src="https://github.com/ak47ak47/ascii-art-converter/blob/main/ascii.png" ></p>
 
 ```
 # Python GUI Text ASCII Art Converter
